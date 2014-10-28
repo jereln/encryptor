@@ -1,0 +1,13 @@
+{
+  "name": "encryptor",
+  "version": "0.0.1",
+  "description": "Securly share any message",
+  "author": "Jerel Navarrete",
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  },
+  "scripts": {
+    "test": "make test"
+  }
+}
